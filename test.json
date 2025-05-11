@@ -1,0 +1,59 @@
+{
+  "id": 65719,
+  "begin_at": "2019-07-01T06:42:00.000Z",
+  "end_at": "2019-07-27T06:42:00.000Z",
+  "grade": "Pisciner",
+  "level": 5.37,
+  "skills": [
+    { "id": 1, "name": "Algorithms & AI", "level": 6.44 },
+    { "id": 3, "name": "Rigor", "level": 5.29 },
+    { "id": 4, "name": "Unix", "level": 4.22 }
+  ],
+  "cursus_id": 4,
+  "has_coalition": false,
+  "blackholed_at": null,
+  "created_at": "2019-06-19T11:17:08.878Z",
+  "updated_at": "2019-10-28T11:16:59.992Z",
+  "user": {
+    "id": 57798,
+    "email": "haachtch@student.codam.nl",
+    "login": "haachtch",
+    "first_name": "Haroutioun",
+    "last_name": "Achtchian",
+    "usual_full_name": "Haroutioun Achtchian",
+    "usual_first_name": null,
+    "url": "https://api.intra.42.fr/v2/users/haachtch",
+    "phone": "hidden",
+    "displayname": "Haroutioun Achtchian",
+    "kind": "student",
+    "image": {
+      "link": "https://cdn.intra.42.fr/users/a367095ac69a16fa2bbe912f0dffee01/haachtch.jpg",
+      "versions": {
+        "large": "https://cdn.intra.42.fr/users/41a7185b46d63d08429b827eb6b8e0e6/large_haachtch.jpg",
+        "medium": "https://cdn.intra.42.fr/users/f933c2ec0004e220a30b6e597c9f9300/medium_haachtch.jpg",
+        "small": "https://cdn.intra.42.fr/users/4dc493860c365ff50dfc82495762e5bd/small_haachtch.jpg",
+        "micro": "https://cdn.intra.42.fr/users/ae4db0ceb5d755723526e1964aac3ece/micro_haachtch.jpg"
+      }
+    },
+    "staff?": false,
+    "correction_point": 8,
+    "pool_month": "july",
+    "pool_year": "2019",
+    "location": null,
+    "wallet": 715,
+    "anonymize_date": "2026-01-30T00:00:00.000+01:00",
+    "data_erasure_date": "2026-01-30T00:00:00.000+01:00",
+    "created_at": "2019-06-19T11:17:08.840Z",
+    "updated_at": "2024-05-23T16:22:53.114Z",
+    "alumnized_at": null,
+    "alumni?": false,
+    "active?": false
+  },
+  "cursus": {
+    "id": 4,
+    "created_at": "2015-05-01T17:46:08.433Z",
+    "name": "Piscine C",
+    "slug": "piscine-c",
+    "kind": "piscine_deprecated"
+  }
+}
