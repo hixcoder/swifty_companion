@@ -71,6 +71,9 @@ class User {
       printLongString(jsonEncode(json['cursus_users'][0]));
 
       // Safely convert the level to double
+      print("-----------bbbb--+++");
+      printLongString(jsonEncode(json['cursus_users']));
+      print("-----------bbbb--+++");
       var levelValue = json['cursus_users'][0]['level'];
       if (levelValue is double) {
         level = levelValue;

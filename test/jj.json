@@ -1,0 +1,129 @@
+[
+  {
+    "id": 131355,
+    "begin_at": "2021-08-02T08:37:00.000Z",
+    "end_at": "2021-08-28T08:37:00.000Z",
+    "grade": "Pisciner",
+    "level": 8.1,
+    "skills": [
+      { "id": 4, "name": "Unix", "level": 9.31 },
+      { "id": 1, "name": "Algorithms & AI", "level": 6.49 },
+      { "id": 3, "name": "Rigor", "level": 5.5600000000000005 },
+      { "id": 14, "name": "Adaptation & creativity", "level": 4.42 },
+      { "id": 7, "name": "Group & interpersonal", "level": 0.39 }
+    ],
+    "cursus_id": 9,
+    "has_coalition": true,
+    "blackholed_at": null,
+    "created_at": "2021-07-29T11:14:57.350Z",
+    "updated_at": "2021-07-29T11:14:57.350Z",
+    "user": {
+      "id": 94531,
+      "email": "hboumahd@student.1337.ma",
+      "login": "hboumahd",
+      "first_name": "Hamza",
+      "last_name": "Boumahdi",
+      "usual_full_name": "Hamza Boumahdi",
+      "usual_first_name": null,
+      "url": "https://api.intra.42.fr/v2/users/hboumahd",
+      "phone": "hidden",
+      "displayname": "Hamza Boumahdi",
+      "kind": "student",
+      "image": {
+        "link": "https://cdn.intra.42.fr/users/387a7e5f508f0a29a7cb90b87924713f/hboumahd.jpg",
+        "versions": {
+          "large": "https://cdn.intra.42.fr/users/e079a28c8bea5dcbd57b6c6b6bc80fd8/large_hboumahd.jpg",
+          "medium": "https://cdn.intra.42.fr/users/2f2613faf56e5fdeffd0ed8791bfff7c/medium_hboumahd.jpg",
+          "small": "https://cdn.intra.42.fr/users/9cff8d1480149a2d1f031def5fa905a2/small_hboumahd.jpg",
+          "micro": "https://cdn.intra.42.fr/users/acb840d7f41506ec482ef8a5edcc5dd2/micro_hboumahd.jpg"
+        }
+      },
+      "staff?": false,
+      "correction_point": 5,
+      "pool_month": "august",
+      "pool_year": "2021",
+      "location": "e1r3p2",
+      "wallet": 565,
+      "anonymize_date": "2028-05-19T00:00:00.000+01:00",
+      "data_erasure_date": "2028-05-19T00:00:00.000+01:00",
+      "created_at": "2021-07-29T11:14:57.298Z",
+      "updated_at": "2025-05-19T12:23:34.189Z",
+      "alumnized_at": null,
+      "alumni?": false,
+      "active?": true
+    },
+    "cursus": {
+      "id": 9,
+      "created_at": "2015-11-04T10:58:13.979Z",
+      "name": "C Piscine",
+      "slug": "c-piscine",
+      "kind": "piscine"
+    }
+  },
+  {
+    "id": 144343,
+    "begin_at": "2021-11-01T08:00:00.000Z",
+    "end_at": null,
+    "grade": "Transcender",
+    "level": 13.85,
+    "skills": [
+      { "id": 16, "name": "Company experience", "level": 11.63 },
+      { "id": 3, "name": "Rigor", "level": 8.19 },
+      { "id": 10, "name": "Network & system administration", "level": 7.67 },
+      { "id": 7, "name": "Group & interpersonal", "level": 7.52 },
+      { "id": 6, "name": "Web", "level": 6.4 },
+      { "id": 17, "name": "Object-oriented programming", "level": 5.73 },
+      { "id": 2, "name": "Imperative programming", "level": 5.0 },
+      { "id": 4, "name": "Unix", "level": 4.47 },
+      { "id": 1, "name": "Algorithms & AI", "level": 4.06 },
+      { "id": 5, "name": "Graphics", "level": 3.33 }
+    ],
+    "cursus_id": 21,
+    "has_coalition": true,
+    "blackholed_at": null,
+    "created_at": "2021-10-25T12:35:53.074Z",
+    "updated_at": "2022-12-29T11:08:18.598Z",
+    "user": {
+      "id": 94531,
+      "email": "hboumahd@student.1337.ma",
+      "login": "hboumahd",
+      "first_name": "Hamza",
+      "last_name": "Boumahdi",
+      "usual_full_name": "Hamza Boumahdi",
+      "usual_first_name": null,
+      "url": "https://api.intra.42.fr/v2/users/hboumahd",
+      "phone": "hidden",
+      "displayname": "Hamza Boumahdi",
+      "kind": "student",
+      "image": {
+        "link": "https://cdn.intra.42.fr/users/387a7e5f508f0a29a7cb90b87924713f/hboumahd.jpg",
+        "versions": {
+          "large": "https://cdn.intra.42.fr/users/e079a28c8bea5dcbd57b6c6b6bc80fd8/large_hboumahd.jpg",
+          "medium": "https://cdn.intra.42.fr/users/2f2613faf56e5fdeffd0ed8791bfff7c/medium_hboumahd.jpg",
+          "small": "https://cdn.intra.42.fr/users/9cff8d1480149a2d1f031def5fa905a2/small_hboumahd.jpg",
+          "micro": "https://cdn.intra.42.fr/users/acb840d7f41506ec482ef8a5edcc5dd2/micro_hboumahd.jpg"
+        }
+      },
+      "staff?": false,
+      "correction_point": 5,
+      "pool_month": "august",
+      "pool_year": "2021",
+      "location": "e1r3p2",
+      "wallet": 565,
+      "anonymize_date": "2028-05-19T00:00:00.000+01:00",
+      "data_erasure_date": "2028-05-19T00:00:00.000+01:00",
+      "created_at": "2021-07-29T11:14:57.298Z",
+      "updated_at": "2025-05-19T12:23:34.189Z",
+      "alumnized_at": null,
+      "alumni?": false,
+      "active?": true
+    },
+    "cursus": {
+      "id": 21,
+      "created_at": "2019-07-29T08:45:17.896Z",
+      "name": "42cursus",
+      "slug": "42cursus",
+      "kind": "main"
+    }
+  }
+]

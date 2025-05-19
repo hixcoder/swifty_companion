@@ -1,4 +1,3 @@
-// lib/screens/login_screen.dart
 import 'package:flutter/material.dart';
 import '../services/api_service.dart';
 import '../screens/profile_screen.dart';
@@ -88,7 +87,16 @@ class _LoginScreenState extends State<LoginScreen>
       if (mounted) {
         setState(() {
           _isLoading = false;
-          if (e.toString().contains('User not found')) {
+
+          // Check for network connectivity issues
+          if (e.toString().contains('SocketException') ||
+              e.toString().contains('Connection refused') ||
+              e.toString().contains('Network is unreachable') ||
+              e.toString().contains('Connection timed out') ||
+              e.toString().contains('No internet')) {
+            _errorMessage =
+                'No internet connection. Please check your network and try again.';
+          } else if (e.toString().contains('User not found')) {
             _errorMessage =
                 'User not found. Please check the login and try again.';
           } else if (e.toString().contains('Failed to load user')) {
