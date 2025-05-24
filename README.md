@@ -6,9 +6,9 @@ A mobile application that allows users to search and view 42 student profiles, i
 
 <div align="center">
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-    <img src="github/img-1.png" width="190" >
-    <img src="github/img-2.png" width="190" >
-    <img src="github/img-3.png" width="190" >
+    <img src="github/img1.png" width="190" >
+    <img src="github/img2.png" width="190" >
+    <img src="github/img3.png" width="190" >
   </div>
 </div>
 
